@@ -20,7 +20,7 @@ Then run the command:
 ```qmake volcaniqueo.pro``` to create the final make file.
 
 Finally run:
-```make```to have the executable application.
+```make``` to have the executable application.
 
 You can simply click to the application to run or if you want to run via terminal, run the command:
 ```./calculator_volcaniqueo.app``` (Make sure you have a permisson to do that.)
